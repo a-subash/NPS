@@ -1,1 +1,1 @@
-These are the few projects and lab tasks done by me and uploaded in this GitHub repository created by a-subash.
+These are the few projects and lab tasks done by me and uploaded in this GitHub repository created by subash.
